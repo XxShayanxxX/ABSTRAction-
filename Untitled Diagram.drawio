@@ -1,9 +1,131 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="b8D6bV-vc12_mJYkOTEZ">
-    <mxGraphModel>
+    <mxGraphModel dx="938" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-2" target="2Ijo6ulwwpLw2W80T_S6-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-3" value="woke up at 7&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-5" target="2Ijo6ulwwpLw2W80T_S6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-6" value="took bath &amp;amp; ate and left to go school&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-8" target="2Ijo6ulwwpLw2W80T_S6-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-9" value="reached school at 8 50" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-11" target="2Ijo6ulwwpLw2W80T_S6-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-11" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-10" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-12" value="school started at 9.15 , the first lesson was PE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="25" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-15" value="after i was done with PE i had my snacks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-18" value="&amp;nbsp;once snack time was over we had GP projects" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="145" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-20" target="2Ijo6ulwwpLw2W80T_S6-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-20" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-21" value="after I was done with my turn , it was lunch&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.66666666666674" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-24" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-25" value="so usually during lunch me and my friends spend time talking with each other while having lunch once we are done we will go to the common space and play table tennis or just talk more :D" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="340" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-27" target="2Ijo6ulwwpLw2W80T_S6-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-27" value="after all that fun time we had math test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="510" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Ijo6ulwwpLw2W80T_S6-29" target="2Ijo6ulwwpLw2W80T_S6-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-29" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="630" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-30" value="once math test was over we had english lesson&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="655" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-32" value="school ended so me and my friends headed back home&amp;nbsp;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="390" y="657.5" width="180" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-33" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="860" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-34" value="thats all&amp;nbsp;&lt;br&gt;THANK YOU :D" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="880" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="145" y="850" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ijo6ulwwpLw2W80T_S6-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="145" y="930" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
